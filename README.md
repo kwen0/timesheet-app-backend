@@ -25,3 +25,6 @@ cd timesheet-app-frontend
 npm install
 npm start
 ```
+
+## Screenshot
+<img width="772" alt="image" src="https://user-images.githubusercontent.com/87447527/162756864-962ef44f-c246-4644-8004-e1813800ac14.png">
